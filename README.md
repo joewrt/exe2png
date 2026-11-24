@@ -8,10 +8,10 @@ exe2png is a Windows desktop utility that extracts icons from `.exe` files and s
 
 ## Downloads
 
-| Platform | Availability |
-| --- | --- |
-| **Download for Windows** | [Latest release](https://github.com/joewrt/exe2png/releases/tag/v1.0.0) |
-| **Download for Mac** | Coming soon |
+| Platform | Availability | Compatibility |
+| --- | --- | --- |
+| **Download for Windows** | [Latest release](https://github.com/joewrt/exe2png/releases/tag/v1.0.0) | Windows 10 / 11 [x64] |
+| **Download for Mac** | *Coming soon* | —————————— |
 
 On Windows, download `exe2png-setup.exe` from **Assets**, run the installer, and open **exe2png** from the Start menu. No separate Python installation is required.
 
