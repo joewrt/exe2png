@@ -1,8 +1,31 @@
 # exe2png
-**A Windows desktop utility for extracting icons from executable files and exporting them as PNG, JPG, ICO, or BMP.**
 
-## Download for Windows
+exe2png is a Windows desktop utility that extracts icons from `.exe` files and saves them as PNG, JPG, ICO, or BMP.
 
-Download **exe2png-Setup.exe** from the [latest release](https://github.com/joewrt/exe2png/releases/latest), run the installer, then open **exe2png** from the Start menu.
+| Logo | Main window | Completed export |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c0fe6778-d04c-49fc-b7ed-ac48201a82b3" alt="exe2png logo" width="120"> | <img src="https://github.com/user-attachments/assets/7eb20d6b-aef6-49b3-ae31-f6dfbfeeaddf" alt="exe2png main window with files selected" height="260"> | <img src="https://github.com/user-attachments/assets/6dfc8c0b-9dbc-4e70-901c-dc67f1745b7a" alt="exe2png showing a completed batch export" height="260"> |
 
-No separate Python installation is required.
+## Downloads
+
+| Platform | Availability |
+| --- | --- |
+| **Download for Windows** | [Latest release](https://github.com/joewrt/exe2png/releases/tag/v1.0.0) |
+| **Download for Mac** | Coming soon |
+
+On Windows, download `exe2png-setup.exe` from **Assets**, run the installer, and open **exe2png** from the Start menu. No separate Python installation is required.
+
+## Features
+
+- **Browse or drag and drop** `.exe` files from File Explorer. Add one file or select several for a batch export.
+- **Icon previews** show the icon associated with each executable before export.
+- **Batch export** handles multiple executables in one go, with a live progress bar and a tally of successful and failed exports.
+- **Four output formats** let you save icons as transparent PNG, JPG, ICO, or BMP.
+- **Size presets** let you keep the original size or export at 16, 32, 48, 64, or 256 px.
+- **Remembered settings** restore your last output folder, format, and size.
+- **Quick access to exports** opens the output folder directly from the app.
+
+## Licence
+
+Made by [Joe Thompson](https://github.com/joewrt). Released under the [MIT License](LICENSE).
+
